@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TaskMaster",
+  "description": "The simplest way to manage tasks, track progress, and build good habits. Features goal planning, daily dashboards, and coach calls.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
